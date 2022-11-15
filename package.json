@@ -24,7 +24,7 @@
   "dependencies": {
     "async": "^2.6.2",
     "callback-data-bus": "github:GuildNetwork/callback-data-bus",
-    "cheerio": "^0.20.0",
+    "cheerio": "^1.0.0-rc.12",
     "css": "^2.2.1",
     "image-size": "^0.5.0",
     "image-type": "^2.1.0",
